@@ -8,7 +8,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<img align= "center" alt="flutter img" width="250px" src="./Flutty.png" />
+<img align= "center" alt="flutter img" width="350px" src="./Flutty.png" />
   
 - 🔭 I’m currently working on something cool
 - 🌱 I’m currently learning Node.js 
