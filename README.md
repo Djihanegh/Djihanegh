@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 💬 Ask me about Flutter <img align="center" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/flutter.svg"/>
 
   Connect with me:
-  [<img align= "left" alt="djihaneghilani | LinkedIn" width="22px" src="./linkedin.svg" />][linkedin]
+  [<img align= "center" alt="djihaneghilani | LinkedIn" width="22px" src="./linkedin.svg" />][linkedin]
   
   [linkedin]: https://www.linkedin.com/in/djihane-ghilani-aa622b184/
 
