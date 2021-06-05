@@ -11,7 +11,7 @@ Here are some ideas to get you started:
 <img align= "center" alt="flutter img" width="350px" src="./Flutty.png" />
   
 - 🔭 I’m currently working on something cool
-- 🌱 I’m currently learning Node.js 
+- 🌱 I’m currently learning Python 
 - 👯 I’m looking to collaborate on open source projects
 - 💬 Ask me about Flutter <img align="center" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/flutter.svg"/>
 
