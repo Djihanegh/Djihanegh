@@ -10,8 +10,8 @@ Here are some ideas to get you started:
 -->
 <img align= "center" alt="flutter img" width="350px" src="./Flutty.png" />
   
-- 🔭 I’m currently working on something cool
-- 👯 I’m looking to collaborate on open source projects
+- 🔭 I’m currently learning Django.
+- 👯 I’m looking for a remote opportunity.
 - 💬 Ask me about Flutter <img align="center" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/flutter.svg"/>
 
   Connect with me:
