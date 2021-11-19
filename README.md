@@ -9,7 +9,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
   
-- 🔭 I’m currently learning Django.
+- 🔭 I’m currently learning Python/Django.
 - 👯 I’m looking for a remote opportunity.
 
 -->
