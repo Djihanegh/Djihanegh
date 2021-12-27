@@ -1,5 +1,6 @@
 ### Hi there 👋 I'm GHILANI Djihane
-A final year **Software Engineer** student, Flutter developer with 3 years of experience, and a Python/Django enthusiast.
+A final year **Software Engineer** student.
+Technologies i use the most : Flutter, Django, React.
 
 <!--
 **Djihanegh/Djihanegh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -10,7 +11,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
   
 - 🔭 I’m currently learning Python/Django.
-- 👯 I’m looking for a remote opportunity.
 
 -->
 
