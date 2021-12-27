@@ -1,7 +1,7 @@
 ### Hi there 👋 I'm GHILANI Djihane
 A final year **Software Engineer** student.
-Technologies i use the most : Flutter, Django, React.
-
+My Stack : Flutter, Django, React.
+currently im involved in the development of open source projects.
 <!--
 **Djihanegh/Djihanegh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
