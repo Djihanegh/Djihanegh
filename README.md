@@ -1,5 +1,5 @@
 ### Hi there 👋 I'm GHILANI Djihane
-A final year **Software Engineer** student.
+**Software Engineer**.
 
 currently im involved in the development of open source projects.
 <!--
