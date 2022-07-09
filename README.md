@@ -1,7 +1,7 @@
 ### Hi there 👋 I'm GHILANI Djihane
-**Software Engineer**.
+A **Software Engineer** and Mobile Developer, i have +3 years of experience with Flutter & Dart developement.
 
-currently im involved in the development of open source projects.
+
 <!--
 **Djihanegh/Djihanegh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
