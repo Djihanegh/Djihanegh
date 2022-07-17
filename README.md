@@ -1,5 +1,5 @@
 ### Hi there 👋 I'm GHILANI Djihane
-A **Software Engineer** and Mobile Developer, i have +3 years of experience with Flutter & Dart developement.
+A **Software Engineer** specialized in Mobile Developement, i have +3 years of experience in Flutter & Dart developement.
 
 
 <!--
